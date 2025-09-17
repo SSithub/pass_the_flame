@@ -1,0 +1,2 @@
+Assets.
+All rights reserved.
